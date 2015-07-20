@@ -7,3 +7,5 @@ if (numero <= 0.5){
 }
 
 console.log('\n' + numero + str + '\n');
+
+// Sólo meto un comentario, aquí no añado más que ésto, ya que comencé directamente con el definitivo
